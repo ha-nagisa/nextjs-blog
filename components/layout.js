@@ -4,7 +4,7 @@ import utilStyles from "../styles/utils.module.css";
 import Link from "next/link";
 
 const name = "Hayami Nagisa";
-export const siteTitle = "Next.jsチュートリアル";
+export const siteTitle = "Next.jsチュートリアル テストプレビュー";
 
 export default function Layout({ children, home }) {
   return (
